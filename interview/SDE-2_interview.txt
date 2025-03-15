@@ -1,0 +1,70 @@
+Core Java & J2EE
+🔹 Q1: What are the key differences between Java 8, Java 11, and Java 17?
+🔹 Q2: Explain object-oriented principles (OOP) in Java with examples.
+🔹 Q3: What is the difference between == and .equals() in Java?
+🔹 Q4: How does Garbage Collection work in Java? Explain different GC algorithms.
+🔹 Q5: What are checked and unchecked exceptions?
+
+2️⃣ Multithreading & Concurrency
+🔹 Q6: How does Java handle multithreading? Explain Thread, Runnable, and Callable.
+🔹 Q7: What are synchronized blocks and ReentrantLock?
+🔹 Q8: How does Thread Pooling work in Java?
+🔹 Q9: What are deadlock, livelock, and starvation? How to prevent them?
+🔹 Q10: Explain CompletableFuture and its advantages over traditional multithreading.
+
+3️⃣ Spring Framework (Spring Boot, Struts)
+🔹 Q11: What are the key differences between Spring Boot and Spring Framework?
+🔹 Q12: How does Spring Dependency Injection work?
+🔹 Q13: What is the difference between @Component, @Service, and @Repository?
+🔹 Q14: Explain the Spring Bean lifecycle and scopes (singleton, prototype).
+🔹 Q15: What is Spring Security and how does it handle authentication/authorization?
+
+4️⃣ RESTful APIs & WebSockets
+🔹 Q16: What are RESTful APIs? How do you implement them in Spring Boot?
+🔹 Q17: What are HTTP methods (GET, POST, PUT, DELETE, PATCH) used for?
+🔹 Q18: What is @RestController in Spring Boot? How does it work?
+🔹 Q19: How do you handle exception handling in REST APIs (@ControllerAdvice)?
+🔹 Q20: What are WebSockets, and how do you implement them in Spring Boot?
+
+5️⃣ Databases: SQL & NoSQL
+🔹 Q21: What is the difference between SQL and NoSQL databases?
+🔹 Q22: How do you optimize MySQL queries for better performance?
+🔹 Q23: What is Redis, and how is it different from a traditional database?
+🔹 Q24: How does JPA/Hibernate caching work? What are first-level and second-level caches?
+🔹 Q25: Explain ACID properties in databases.
+
+6️⃣ Message Queues (RabbitMQ & Kafka)
+🔹 Q26: What is RabbitMQ, and how does it handle messaging?
+🔹 Q27: How does Kafka differ from RabbitMQ?
+🔹 Q28: Explain Kafka's producer-consumer architecture.
+🔹 Q29: What are Kafka partitions, and how do they improve performance?
+🔹 Q30: How do you ensure message delivery reliability in Kafka?
+
+7️⃣ Cloud & CI/CD (AWS, Azure, GCP)
+🔹 Q31: What is CI/CD? How do you implement it in a Java project?
+🔹 Q32: What are Docker and Kubernetes, and how are they used in deployment?
+🔹 Q33: What is the difference between monolithic and microservices architectures?
+🔹 Q34: How does AWS S3 work, and how can you integrate it with a Java application?
+🔹 Q35: How do you handle logging and monitoring in cloud-based Java applications?
+
+8️⃣ Git & Version Control
+🔹 Q36: How does Git work, and what are its main commands (commit, push, pull)?
+🔹 Q37: What is the difference between Git Merge and Git Rebase?
+🔹 Q38: What are Git branches, tags, and stashes?
+🔹 Q39: What is the use of .gitignore in a project?
+🔹 Q40: How do you resolve Git merge conflicts?
+
+9️⃣ Data Structures & Algorithms
+🔹 Q41: What are the differences between ArrayList and LinkedList?
+🔹 Q42: How does HashMap work internally in Java?
+🔹 Q43: Explain the time complexity of different sorting algorithms.
+🔹 Q44: Implement a binary search in Java.
+🔹 Q45: What is the difference between Breadth-First Search (BFS) and Depth-First Search (DFS)?
+
+🔹 Behavioral & System Design Questions
+🔹 Q46: Have you worked in a financial services domain before? How was your experience?
+🔹 Q47: How do you handle high-load transactional systems?
+🔹 Q48: How would you design a highly scalable notification system?
+🔹 Q49: Describe a challenging backend issue you solved and how.
+🔹 Q50: How do you ensure high availability and fault tolerance in your system?
+

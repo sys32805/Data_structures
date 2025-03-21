@@ -43,6 +43,3 @@ public class Interview {
  * FIND THE COMMON ELEMENT *
  * LIST1.RETAINALL(LIST2) *
  **************************/
-
- final is used for preventing inheritence
- finally

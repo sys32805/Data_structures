@@ -1,4 +1,4 @@
-package rohit.Java8.lambda;
+// package rohit.Java8.lambda;
 
 import java.util.function.Function;
 
